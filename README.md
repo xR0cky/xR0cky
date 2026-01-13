@@ -37,7 +37,7 @@ I prefer:
 
 ---
 
-### Skills (deliberately minimal)
+### Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
